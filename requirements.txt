@@ -1,0 +1,3 @@
+https://github.com/facebookresearch/segment-anything-2.git
+https://github.com/IDEA-Research/GroundingDINO.git
+huggingface_hub
